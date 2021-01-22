@@ -1,10 +1,11 @@
 <html>
 <body>
 
-<h1>My first PHP page</h1>
+  <center><h1>My first PHP page</h1></center>
 
 <?php
-echo "Hello World!";
+echo "Hello Cloud Computing Class!<br>";
+echo "Nguyễn Hoàng";
 ?>
 
 </body>
